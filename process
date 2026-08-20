@@ -1,0 +1,9 @@
+Comment l'utiliser une fois téléversé :
+
+    Sur ton téléphone, active le Wi-Fi et connecte-toi au réseau Tablette-OLED (Mot de passe : 12345678).
+
+    Ouvre un navigateur web (Chrome, Safari, etc.).
+
+    Saisis l'adresse IP par défaut de l'ESP8266 : [http://192.168.4.1](http://192.168.4.1)
+
+    L'interface de dessin s'affiche et se connecte automatiquement au canal WebSocket. Tout ce que tu dessines au doigt apparaît instantanément sur l'écran OLED.
