@@ -1,12 +1,14 @@
 # Tablette_GraphicOLED
 
 Un tel projet repose sur quatre briques fondamentales : le composant matériel, l'architecture réseau sans fil, le code embarqué sur l'ESP8266 et l'application mobile.
+
 1. Composants matériels requis
+
     ESP8266 (NodeMCU V3 ou Wemos D1 Mini)
     Écran OLED SSD1306 (0,96" ou 1,3", résolution 128x64 pixels, bus I2C)
     Plaque d'essai (breadboard) et câbles Dupont (Fremelle-Femelle ou Mâle-Femelle)
 
-   Câblage (I2C)
+   2. Câblage (I2C)
 
    Écran OLED (SSD1306)ESP8266 (NodeMCU)
    VCC    3.3V
